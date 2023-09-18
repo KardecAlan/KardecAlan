@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
 ## Fala, Galera!Eu sou o Alan Kardec.
 
-
 <!--</p>
 <p align="left"> 
    <img src="https://komarev.com/ghpvc/?username=KardecAlan&label=Profile%20Views&style=flat" alt="KardecAlan" /> 
