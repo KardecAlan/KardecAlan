@@ -23,20 +23,25 @@
 </div>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kardecAlan&bg_color=141321&color=4682B4&line=4682B4&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kardecAlan&theme=github-compact&custom_title=Minhas%20Atividades%20&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## Tecnologias e Competências 
 
-<ul>
-  <li>  Java </li>
-  <li>  Spring MVC</li>
-  <li>  JDBC </li>
-  <li>  JSP </li>
-  <li>  Oracle </li>
-  <li>  Intellij </li>
-  <li>  Git </li>
-</ul>
+<!--  <ul> -->
+<!--   <li>  Java </li> -->
+<!--   <li>  Spring MVC</li> -->
+<!--   <li>  JDBC </li> -->
+<!--   <li>  JSP </li> -->
+<!--   <li>  Oracle </li> -->
+<!--   <li>  Intellij </li> -->
+<!--   <li>  Git </li> -->
+<!-- </ul> -->
 
+Linguagens | Frameworks  | Banco de Dados | Versionamento 
+:---------: | :------: | :-------: | :------:
+Java | Spring MVC | Oracle | Git
+Dart |
 
 ## Contatos
 
