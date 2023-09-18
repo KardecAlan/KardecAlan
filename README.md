@@ -1,17 +1,25 @@
-## Hey guys! I'm Alan Kardec.
+## Fala, Galera!Eu sou o Alan Kardec.
 </p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=KardecAlan&label=Profile%20Views&style=flat" alt="KardecAlan" />
 </p>
 
 <ul>
-  <li>  I currently work with back-end</li>
-  <li>  I'm studying Dart and Flutter</li>
+  <li>  Atualmente trabalho como desenvolvedor Back-end</li>
+  <li>  Estou estudando Dart e Flutter</li>
 </ul>
 
+## Tecnologias e Competências 
+- Java
+- Spring MVC
+- JDBC
+- JSP
+- ORACLE
+- Git
+- Maven
+- Intellij
 
-
-## Stats
+###
 
 <p>
 <div align="center">
@@ -22,7 +30,7 @@
 </div>
 </p>
 
-## Contact
+## Contatos
 
 <p>
 <div>
