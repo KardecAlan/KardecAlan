@@ -8,7 +8,7 @@
  </p> 
 
 <ul>
-  <li>  Atualmente trabalho como desenvolvedor Back-end</li>
+  <li>  Trabalho como desenvolvedor Back-end</li>
   <li>  Estou estudando Dart e Flutter</li>
 </ul>
 
