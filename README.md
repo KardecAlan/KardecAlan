@@ -2,8 +2,6 @@
 
 ## Fala, Galera!Eu sou o Alan Kardec.
 
-
-
 </p>
 <p align="left"> 
    <img src="https://komarev.com/ghpvc/?username=KardecAlan&label=Visitantes&style=flat" alt="KardecAlan" /> 
@@ -14,25 +12,7 @@
   <li>  Estou estudando Dart e Flutter</li>
 </ul>
 
-## Tecnologias e Competências 
-
-<div style="display: inline_block"><br>
- 
-</div>
-- Java
-- Spring MVC
-- JDBC
-- JSP
-- ORACLE
-- Git
-- Maven
-- Intellij
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-</div>
-
-###
+##
 
 <p>
 <div align="center">
@@ -44,6 +24,19 @@
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kardecAlan&bg_color=141321&color=4682B4&line=4682B4&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Tecnologias e Competências 
+
+<ul>
+  <li>  Java </li>
+  <li>  Spring MVC</li>
+  <li>  JDBC </li>
+  <li>  JSP </li>
+  <li>  Oracle </li>
+  <li>  Intellij </li>
+  <li>  Git </li>
+</ul>
+
 
 ## Contatos
 
