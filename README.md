@@ -26,6 +26,10 @@
 - Maven
 - Intellij
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+</div>
+
 ###
 
 <p>
