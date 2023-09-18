@@ -1,8 +1,11 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 ## Fala, Galera!Eu sou o Alan Kardec.
-</p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=KardecAlan&label=Profile%20Views&style=flat" alt="KardecAlan" />
-</p>
+
+
+<!--</p>
+<p align="left"> 
+   <img src="https://komarev.com/ghpvc/?username=KardecAlan&label=Profile%20Views&style=flat" alt="KardecAlan" /> 
+ </p> -->
 
 <ul>
   <li>  Atualmente trabalho como desenvolvedor Back-end</li>
@@ -10,6 +13,10 @@
 </ul>
 
 ## Tecnologias e Competências 
+
+<div style="display: inline_block"><br>
+ 
+</div>
 - Java
 - Spring MVC
 - JDBC
@@ -30,6 +37,8 @@
 </div>
 </p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kardecAlan&bg_color=000000&color=1f57c7&line=020bf7&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Contatos
 
 <p>
@@ -42,3 +51,4 @@
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       target="_blank"></a>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
